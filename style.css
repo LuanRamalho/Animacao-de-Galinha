@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: url('https://cdn.dribbble.com/users/166978/screenshots/1460003/20140302_chickenlayingegg_dp_h264_v01.gif');
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
